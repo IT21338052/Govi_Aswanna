@@ -72,7 +72,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="16dp"
                 android:layout_marginTop="16dp"
-                android:text="FUllName"
+                android:text="Farmer Home"
                 android:textAllCaps="true"
                 android:textColor="@color/black"
                 android:textSize="16sp"
