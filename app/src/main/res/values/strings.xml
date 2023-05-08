@@ -1,4 +1,5 @@
 <resources>
+    //Keshan
     <string name="app_name">Govi Aswanna</string>
     <string name="welcome">"Welcome !"</string>
     <string name="invalid_username">Not a valid username</string>
@@ -33,11 +34,42 @@
     <string name="help">Help</string>
     <string name="accountDelete">Delete Account</string>
 
+    //Heshan
+
+
+    //
+    <string name="head2">Market Place Management System</string>
+    <string name="btn_home1">Add Market</string>
+    <string name="btn_home2">View Market</string>
+
+    //
+    <string name="text1">Enter Food Name</string>
+    <string name="text2">Enter Quantity (kg)</string>
+    <string name="text3">Enter Price</string>
+    <string name="text4">Enter Saller Name</string>
+    <string name="btn1">Sale</string>
+
+    //
+    <string name="head1">View Market Item</string>
+    <string name="view1">Food ID</string>
+    <string name="view2">Food Type</string>
+    <string name="view3">Food Name</string>
+    <string name="view4">Food Quantity</string>
+    <string name="view5">Food Price</string>
+    <string name="view6">Saller</string>
+    <string name="btn2">UPDATE</string>
+    <string name="btn3">DELETE</string>
+
+    <string name="btn_update">Update Data</string>
+
+
     <string-array name="account_types">
         <item>Select Account Type</item>
         <item>Buyer</item>
         <item>Farmer</item>
     </string-array>
+
+
 
 
 </resources>

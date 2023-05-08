@@ -43,6 +43,11 @@ class HomeFarmerActivityUm : AppCompatActivity() {
             startActivity(intent)
         }
 
+        binding.marketManagementUM.setOnClickListener {
+            val intent = Intent(this, HomeActivity::class.java)
+            startActivity(intent)
+        }
+
         val database = FirebaseDatabase.getInstance().getReference("Users")
         database.addListenerForSingleValueEvent(object : ValueEventListener {
             override fun onDataChange(snapshot: DataSnapshot) {

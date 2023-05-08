@@ -45,6 +45,11 @@ class HomeBuyerActivityUM : AppCompatActivity() {
             startActivity(intent)
         }
 
+        binding.marketPlaceBuyerUM.setOnClickListener {
+            val intent = Intent(this, FetchingActivity::class.java)
+            startActivity(intent)
+        }
+
         // Getting all users and counting the number of farmers and buyers
         val database = FirebaseDatabase.getInstance().getReference("Users")
         database.addListenerForSingleValueEvent(object : ValueEventListener {

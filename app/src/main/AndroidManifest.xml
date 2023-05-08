@@ -25,6 +25,12 @@
         <activity android:name=".activities.UserProfileActivityUM"></activity>
         <activity android:name=".activities.UpdateAccountActivityUM"></activity>
         <activity android:name=".activities.HomeBuyerActivityUM"></activity>
+
+        <activity android:name=".activities.FetchingActivity"></activity>
+        <activity android:name=".activities.FoodDetailsActivity"></activity>
+        <activity android:name=".activities.FoodDetailsBuyerActivity"></activity>
+        <activity android:name=".activities.InsertionActivity"></activity>
+        <activity android:name=".activities.HomeActivity"></activity>
     </application>
 
 </manifest>
