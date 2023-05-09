@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imgwidth">101dp</dimen>
+    <dimen name="imgHeight">93dp</dimen>
+
+    <dimen name="upimgHeight">99dp</dimen>
+    <dimen name="upimgWidth">120dp</dimen>
+
+    <dimen name="inventoryCardWidth">374dp</dimen>
+    <dimen name="inventoryCardHeight">149dp</dimen>
+
+    <dimen name="inventoryImgWidth">117dp</dimen>
+    <dimen name="inventoryImgHeight">126dp</dimen>
+
+    <dimen name="inventoryDLTWidth">102dp</dimen>
+    <dimen name="inventoryDLTHeight">37dp</dimen>
+
+    <dimen name="backBTNWidth">55dp</dimen>
+    <dimen name="backBTNHeight">34dp</dimen>
+
+    <dimen name="inventoryUPDWidth">102dp</dimen>
+    <dimen name="inventoryUPDHeight">37dp</dimen>
+
+    <dimen name="stockViewWidth">325dp</dimen>
+    <dimen name="stockViewHeight">113dp</dimen>
+
+    <dimen name="mainTileBtnWidth">174dp</dimen>
+    <dimen name="mainTileBtnHeight">159dp</dimen>
+
+    <dimen name="customerNameCardWidth">361dp</dimen>
+    <dimen name="customerNameCardHeight">125dp</dimen>
+
+</resources>

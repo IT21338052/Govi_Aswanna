@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Gowi Aswenna</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="addPr">Add Product</string>
+    <string name="updatePr">Update Product</string>
+    <string name="deletePr">Delete Product</string>
+    <string name="inventoryPr">View Inventory</string>
+    <string name="pName">Product Name :</string>
+    <string name="pQty">Quantity :</string>
+    <string name="pStock">Stock In Hand :</string>
+    <string name="pPrice">Price :</string>
+    <string name="pDesc">Product Description :</string>
+    <string name="category">Product Category :</string>
+    <string name="image">Product Image :</string>
+    <string name="description">Product Description :</string>
+    <string name="Home">Home</string>
+    <string name="inventory">Inventory</string>
+    <string name="Account">Account</string>
+    <string-array name="complains_category_array">
+        <item>Select Category</item>
+        <item>Rice</item>
+        <item>Vegitable</item>
+        <item>Fruit</item>
+        <item>Fish</item>
+        <item>Meat</item>
+    </string-array>
+</resources>
