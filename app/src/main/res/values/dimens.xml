@@ -24,8 +24,8 @@
     <dimen name="stockViewWidth">325dp</dimen>
     <dimen name="stockViewHeight">113dp</dimen>
 
-    <dimen name="mainTileBtnWidth">174dp</dimen>
-    <dimen name="mainTileBtnHeight">159dp</dimen>
+    <dimen name="mainTileBtnWidth">172dp</dimen>
+    <dimen name="mainTileBtnHeight">117dp</dimen>
 
     <dimen name="customerNameCardWidth">361dp</dimen>
     <dimen name="customerNameCardHeight">125dp</dimen>

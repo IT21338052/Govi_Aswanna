@@ -57,7 +57,7 @@
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@drawable/stocks">
+            android:background="@drawable/inventory_stocks">
 
             <TextView
                 android:id="@+id/textView4"
@@ -120,8 +120,8 @@
 
     <Button
         android:id="@+id/btnAddForm"
-        android:layout_width="172dp"
-        android:layout_height="117dp"
+        android:layout_width="@dimen/mainTileBtnWidth"
+        android:layout_height="@dimen/mainTileBtnHeight"
         android:layout_marginStart="40dp"
         android:layout_marginTop="20dp"
         android:text="Add Product"
@@ -133,8 +133,8 @@
 
     <Button
         android:id="@+id/btnInsertData2"
-        android:layout_width="172dp"
-        android:layout_height="117dp"
+        android:layout_width="@dimen/mainTileBtnWidth"
+        android:layout_height="@dimen/mainTileBtnHeight"
         android:layout_marginStart="25dp"
         android:layout_marginTop="7dp"
         android:layout_marginEnd="44dp"
@@ -146,8 +146,8 @@
 
     <Button
         android:id="@+id/btnInsertData3"
-        android:layout_width="172dp"
-        android:layout_height="117dp"
+        android:layout_width="@dimen/mainTileBtnWidth"
+        android:layout_height="@dimen/mainTileBtnHeight"
         android:layout_marginStart="40dp"
         android:layout_marginTop="7dp"
         android:text="Delete Products"
@@ -158,8 +158,8 @@
 
     <Button
         android:id="@+id/btnViewForm"
-        android:layout_width="172dp"
-        android:layout_height="117dp"
+        android:layout_width="@dimen/mainTileBtnWidth"
+        android:layout_height="@dimen/mainTileBtnHeight"
         android:layout_marginStart="25dp"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="44dp"

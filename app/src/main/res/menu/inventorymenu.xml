@@ -4,18 +4,18 @@
 
     <item
         android:id="@+id/home"
-        android:icon="@drawable/baseline_home_24"
+        android:icon="@drawable/inventory_baseline_home_24"
         android:title="HOME"/>
 
     <item
         android:id="@+id/search"
-        android:icon="@drawable/baseline_inventory_24"
+        android:icon="@drawable/inventory_baseline_inventory_24"
         android:title="INVENTORY" />
 
 
     <item
         android:id="@+id/settngs"
-        android:icon="@drawable/baseline_person_24"
+        android:icon="@drawable/inventory_baseline_person_24"
         android:title="ACCOUNT"/>
 
 
