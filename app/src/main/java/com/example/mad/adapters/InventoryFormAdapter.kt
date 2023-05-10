@@ -22,6 +22,8 @@ class InventoryFormAdapter(private val feedList: ArrayList<InventoryFormModel>, 
 
     interface onItemClickListener {
         fun onItemClick(position: Int)
+
+
     }
 
     fun setOnItemClickListener(clickListener: onItemClickListener) {
